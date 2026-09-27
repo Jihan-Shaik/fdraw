@@ -12,6 +12,6 @@ Draw any curve and get its equation y = f(x), ready to paste into Desmos.
 - Zoom, pan, extend curves across the whole view, light and dark themes
 
 ## How it was built
-I came up with the idea, specified the features, and tested and iterated on it. The code was written with Claude, Anthropic's AI assistant.
+I came up with the idea, specified the features, and tested and iterated on it. The code was written with Claude, Sonnet 4.8.
 
 One self-contained HTML file with no dependencies.
