@@ -14,4 +14,4 @@ Draw any curve and get its equation y = f(x), ready to paste into Desmos.
 ## How it was built
 I came up with the idea, specified the features, and tested and iterated on it. The code was written with Claude, Anthropic's AI assistant.
 
-One self-contained HTML file with no dependencies, plus its icons.
+One self-contained HTML file with no dependencies.
