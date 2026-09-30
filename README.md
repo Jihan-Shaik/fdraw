@@ -14,7 +14,7 @@ Draw any curve and get its equation y = f(x), ready to paste into Desmos.
 ## How it was built
 I came up with the idea, specified the features, and tested and iterated on it. The code was written with Claude.
 
-One self-contained HTML file with no dependencies, plus its icons.
+One self-contained HTML file with no dependencies.
 
 ## License
 © 2026 Jihan Shaik. All rights reserved. You are welcome to use the website; the code may not be copied or reused without permission.
